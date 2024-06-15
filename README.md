@@ -20,8 +20,6 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de E-book sobre o tema de IA na Engenharia Florestal, o ebook é do nicho de plantio florestal homogeneo e o subnicho é aprendizado de máquina. O título deve ser épico e curto e tenha uma temática mais séria e liste 5 variações de títulos                                                   |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, sempre traga exemplos de código em contextos, sempre deixe um título sugestivo por tópico |
-
 Copilot：
 
 |  Ação  | prompt                                                                                 |
